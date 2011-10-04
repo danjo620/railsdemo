@@ -18,6 +18,14 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'execjs'
+gem 'therubyracer'
+
+#gem 'haml'
+#gem 'activeadmin'
+#gem 'meta_search'
+#gem 'paperclip'
+
 
 # Use unicorn as the web server
 # gem 'unicorn'
